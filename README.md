@@ -4,4 +4,4 @@ An old version of a web game project. I found this in my files and wanted to sha
 
 To play this version go to calebji.com/AnimalFarm-Archive
 
-To play the newst verison go to calebji.com/game/AnimalFarm.html
+To play the newst verison go to calebji.com/AnimalFarm
